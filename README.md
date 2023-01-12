@@ -9,17 +9,6 @@ pip install Sphinx
 pip install sphinx-rtd-theme
 ```
 
-
-# support for doxygen requires breathe
-pip install breathe
-
-# equation rendering requires latex and dvipng command
-```
-sudo apt-get install dvipng
-sudo apt-get install texlive texstudio
-sudo apt-get install texlive-latex-recommended texlive-pictures texlive-latex-extra
-```
-
 # To build the docs
 ```
 Step 1) install dependencies listed above
