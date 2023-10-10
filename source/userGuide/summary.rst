@@ -2,4 +2,9 @@
 User Guide 
 ==============
 
-Add text description here
+.. toctree::
+   :glob:
+   :maxdepth: 2
+
+   Installation/*
+   FAQ/*
