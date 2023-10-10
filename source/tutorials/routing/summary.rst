@@ -2,4 +2,4 @@
 Routing
 ==============
 
-Add text description here
+Routing algorithims currently supported by the simulator
